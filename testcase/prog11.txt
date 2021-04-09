@@ -1,0 +1,7 @@
+Store R1, 11
+Store R2, 0.0
+Load R3, R1
+Load R4, R2
+Div R3, R4
+Output R3
+Halt

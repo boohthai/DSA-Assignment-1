@@ -1,0 +1,12 @@
+Move R1, 1A
+Store R1, 999999A
+Load R2, R1
+Output R2
+Move R10, true
+Move R11, false
+And R10, false
+Output R10
+Not R10
+Or R11, R10
+Output R11
+JumpIf R10, R2

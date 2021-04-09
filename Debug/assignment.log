@@ -1,0 +1,65 @@
+﻿  main.cpp
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(665,16): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(666,10): error C2297: '<<': illegal, right operand has type 'double'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(666,6): warning C4552: '<<': result of expression not used
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(700,16): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(701,10): error C2297: '<<': illegal, right operand has type 'double'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(701,6): warning C4552: '<<': result of expression not used
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(737,16): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(738,10): error C2297: '<<': illegal, right operand has type 'double'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(738,6): warning C4552: '<<': result of expression not used
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(755,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(763,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(770,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(776,16): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(777,6): warning C4552: '<<': result of expression not used
+  VM.cpp
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(665,16): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(666,10): error C2297: '<<': illegal, right operand has type 'double'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(666,6): warning C4552: '<<': result of expression not used
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(700,16): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(701,10): error C2297: '<<': illegal, right operand has type 'double'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(701,6): warning C4552: '<<': result of expression not used
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(737,16): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(738,10): error C2297: '<<': illegal, right operand has type 'double'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(738,6): warning C4552: '<<': result of expression not used
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(755,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(763,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(770,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(776,16): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\VM.cpp(777,6): warning C4552: '<<': result of expression not used
+  ._main.cpp
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,1): warning C4821: Unable to determine Unicode encoding type, please save the file with signature (BOM)
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,2): error C2018: unknown character '0x5'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,3): error C2018: unknown character '0x16'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,4): error C2018: unknown character '0x7'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,6): error C2018: unknown character '0x2'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,13): error C2146: syntax error: missing ';' before identifier 'OS'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,26): error C2018: unknown character '0x2'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,34): error C2059: syntax error: 'bad suffix on number'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,43): error C2018: unknown character '0x2'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,46): error C2018: unknown character '0x1'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,96): error C2018: unknown character '0x1'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,122): error C2018: unknown character '0x2'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._main.cpp(1,131): error C2018: unknown character '0x10'
+  ._VM.cpp
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,1): warning C4821: Unable to determine Unicode encoding type, please save the file with signature (BOM)
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,2): error C2018: unknown character '0x5'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,3): error C2018: unknown character '0x16'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,4): error C2018: unknown character '0x7'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,6): error C2018: unknown character '0x2'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,13): error C2146: syntax error: missing ';' before identifier 'OS'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,26): error C2018: unknown character '0x2'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,34): error C2059: syntax error: 'bad suffix on number'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,34): error C3873: '0xa2': this character is not allowed as a first character of an identifier
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,43): error C2018: unknown character '0x2'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,124): error C2018: unknown character '0x1'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,136): error C2018: unknown character '0x15'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,160): error C2041: illegal digit '8' for base '8'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,165): error C2059: syntax error: 'user-defined literal'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,180): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,181): error C2041: illegal digit '9' for base '8'
+C:\Booh\HCMUT\Sem 202\DSA\Asm1\initial\__macosx\._VM.cpp(1,181): error C2059: syntax error: 'user-defined literal'
+  Generating Code...

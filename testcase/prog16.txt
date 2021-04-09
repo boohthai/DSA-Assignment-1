@@ -1,0 +1,11 @@
+Output 5
+Call 3A
+Move R16, 2
+Move R15, 1A
+Store R15, 123
+Move R15, true
+Output R15
+Load R15, 1A
+Output R15
+CmpGE R15, 123
+JumpIf R15, 2A

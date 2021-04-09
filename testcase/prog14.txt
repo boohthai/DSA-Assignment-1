@@ -1,0 +1,11 @@
+Move R1, 11
+CmpLT R1, 5
+JumpIf R1, 5A
+Move R1, 11
+CmpGE R1, 11
+JumpIf R1, 6A
+Move R4, R1
+Move R4, 11
+Div R4, 11
+Output R4
+Halt

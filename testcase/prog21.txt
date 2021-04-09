@@ -1,0 +1,3 @@
+Move R15, 1142
+Output R15
+Halt

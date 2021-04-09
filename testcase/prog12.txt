@@ -1,0 +1,7 @@
+Store R1, 11
+CmpLT R1, 5
+JumpIf R1, 5A
+Load R4, R1
+Div R4, 11
+Output R4
+Halt

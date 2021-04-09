@@ -1,0 +1,10 @@
+Move R4, 12
+Div R4, 5
+Output R4
+Move R5, 4
+Mul R5, R4
+Output R5
+Div R5, 1.2
+Output R5
+Mul R4, R5
+Output R4
